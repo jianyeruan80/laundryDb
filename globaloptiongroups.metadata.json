@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"laundryDb.globaloptiongroups"},{"v":1,"unique":true,"key":{"merchantId":1,"group":1},"name":"merchantId_1_group_1","sparse":true,"background":true,"ns":"laundryDb.globaloptiongroups"}]}
